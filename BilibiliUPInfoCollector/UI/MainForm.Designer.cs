@@ -227,7 +227,7 @@
             this.MinimumSize = new System.Drawing.Size(680, 250);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Bilibili直播学习区主播信息采集器-Demo";
+            this.Text = "Bilibili直播主播信息采集器-Demo";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.OnMainFormClosing);
             this.LogGroupBox.ResumeLayout(false);
             this.StatuGroupBox.ResumeLayout(false);
